@@ -1,0 +1,2 @@
+void foobar() { }
+aabb
